@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
   <head>
+    <base href="https://kogagumi-2025.github.io/test-finance-frontend/" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>東証プライム全銘柄分析システム</title>
@@ -16,20 +17,10 @@
 
       <div class="controls">
         <div class="control-group">
-          <button
-            id="analyzeAllBtn"
-            class="primary-btn"
-            onclick="analyzeAllStocks()"
-            disabled
-          >
+          <button id="analyzeAllBtn" class="primary-btn">
             > 🚀 全銘柄分析開始 *無効化
           </button>
-          <button
-            id="refreshBtn"
-            class="secondary-btn"
-            onclick="refreshData()"
-            disabled
-          >
+          <button id="refreshBtn" class="secondary-btn">
             > 🔄 データ更新 *無効化
           </button>
         </div>
