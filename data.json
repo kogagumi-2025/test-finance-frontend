@@ -4,63 +4,63 @@
     {
       "code": "7203.T",
       "name": "Toyota Motor Corporation",
-      "currentPrice": 2680.0,
-      "previousClose": 2721.0,
-      "predictedPrice": 3221.0,
-      "changePercent": 0.9849320102903344,
-      "recommendation": "BUY",
-      "score": 65,
-      "predictedProfitMargin": 0.7159928454205431
+      "currentPrice": 2773.0,
+      "previousClose": 2680.0,
+      "predictedPrice": 3180.0,
+      "changePercent": 1.0347014925373135,
+      "recommendation": "HOLD",
+      "score": 37,
+      "predictedProfitMargin": 0.37617879671093346
     },
     {
       "code": "8306.T",
       "name": "Mitsubishi UFJ Financial Group, Inc.",
-      "currentPrice": 2116.0,
-      "previousClose": 2077.5,
-      "predictedPrice": 2577.5,
-      "changePercent": 1.018531889290012,
-      "recommendation": "SELL",
-      "score": 19,
-      "predictedProfitMargin": 0.38506628595504966
+      "currentPrice": 2129.5,
+      "previousClose": 2116.0,
+      "predictedPrice": 2616.0,
+      "changePercent": 1.0063799621928167,
+      "recommendation": "BUY",
+      "score": 79,
+      "predictedProfitMargin": 0.0739792763213778
     },
     {
       "code": "6501.T",
       "name": "Hitachi, Ltd.",
-      "currentPrice": 4207.0,
-      "previousClose": 4151.0,
-      "predictedPrice": 4651.0,
-      "changePercent": 1.0134907251264755,
-      "recommendation": "BUY",
-      "score": 95,
-      "predictedProfitMargin": 0.19907582531553025
+      "currentPrice": 4228.0,
+      "previousClose": 4207.0,
+      "predictedPrice": 4707.0,
+      "changePercent": 1.004991680532446,
+      "recommendation": "HOLD",
+      "score": 40,
+      "predictedProfitMargin": 0.23301251893439778
     },
     {
       "code": "6758.T",
       "name": "Sony Group Corporation",
-      "currentPrice": 3860.0,
-      "previousClose": 3707.0,
-      "predictedPrice": 4207.0,
-      "changePercent": 1.0412732667925546,
-      "recommendation": "BUY",
-      "score": 97,
-      "predictedProfitMargin": 0.3071393884007112
+      "currentPrice": 3995.0,
+      "previousClose": 3860.0,
+      "predictedPrice": 4360.0,
+      "changePercent": 1.0349740932642486,
+      "recommendation": "SELL",
+      "score": 16,
+      "predictedProfitMargin": 0.347843525067812
     },
     {
       "code": "6861.T",
       "name": "Keyence Corporation",
-      "currentPrice": 55490.0,
-      "previousClose": 55780.0,
-      "predictedPrice": 56280.0,
-      "changePercent": 0.994801003944066,
-      "recommendation": "SELL",
-      "score": 10,
-      "predictedProfitMargin": 0.9158435713658218
+      "currentPrice": 55550.0,
+      "previousClose": 55490.0,
+      "predictedPrice": 55990.0,
+      "changePercent": 1.0010812759055685,
+      "recommendation": "BUY",
+      "score": 91,
+      "predictedProfitMargin": 0.10548861270805487
     }
   ],
   "stats": {
-    "buy": 3,
-    "hold": 0,
-    "sell": 2,
-    "avgGain": 0.8421714825739071
+    "buy": 2,
+    "hold": 2,
+    "sell": 1,
+    "avgGain": 0.8470214174053989
   }
 }
