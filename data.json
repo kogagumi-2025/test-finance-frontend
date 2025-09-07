@@ -8,9 +8,9 @@
       "previousClose": 2905.0,
       "predictedPrice": 3405.0,
       "changePercent": 1.0197934595524958,
-      "recommendation": "HOLD",
-      "score": 42,
-      "predictedProfitMargin": 0.49348201249812074
+      "recommendation": "SELL",
+      "score": 24,
+      "predictedProfitMargin": 0.4101614545749628
     },
     {
       "code": "8306.T",
@@ -19,9 +19,9 @@
       "previousClose": 2247.5,
       "predictedPrice": 2747.5,
       "changePercent": 1.0093437152391547,
-      "recommendation": "BUY",
-      "score": 94,
-      "predictedProfitMargin": 0.29504600719337315
+      "recommendation": "SELL",
+      "score": 22,
+      "predictedProfitMargin": 0.36782256938577074
     },
     {
       "code": "6501.T",
@@ -31,8 +31,8 @@
       "predictedPrice": 4333.0,
       "changePercent": 1.0164362118445083,
       "recommendation": "BUY",
-      "score": 68,
-      "predictedProfitMargin": 0.5780513201712637
+      "score": 71,
+      "predictedProfitMargin": 0.5281040740982343
     },
     {
       "code": "6758.T",
@@ -42,8 +42,8 @@
       "predictedPrice": 4605.0,
       "changePercent": 0.9968331303288672,
       "recommendation": "HOLD",
-      "score": 43,
-      "predictedProfitMargin": 0.14574192617515747
+      "score": 58,
+      "predictedProfitMargin": 0.6821300464678525
     },
     {
       "code": "6861.T",
@@ -53,14 +53,14 @@
       "predictedPrice": 56970.0,
       "changePercent": 1.0038958739153532,
       "recommendation": "HOLD",
-      "score": 55,
-      "predictedProfitMargin": 0.19869410599400406
+      "score": 58,
+      "predictedProfitMargin": 0.8448330589862755
     }
   ],
   "stats": {
-    "buy": 2,
-    "hold": 3,
-    "sell": 0,
+    "buy": 1,
+    "hold": 2,
+    "sell": 2,
     "avgGain": 0.8410503984800632
   }
 }
